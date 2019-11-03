@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Relative</string>
+    <string name="left_arrow">\u21E6</string>
+
+
+    <!-- 普通按钮颜色变化 -->
+    <drawable name="button_normal">@color/white</drawable>
+    <drawable name="button_pressed">@color/main_textview</drawable>
+    <!-- 等号按钮颜色变化 -->
+    <drawable name="equal_normal">@color/tomato</drawable>
+    <drawable name="equal_pressed">#f25d42</drawable>
+</resources>
